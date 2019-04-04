@@ -1,0 +1,68 @@
+34359738368:
+  initialallocrange:
+    low: 0
+    high: 8
+  allocranges:
+  - low: 0
+    high: 8
+  usedranges: []
+1095216660480:
+  initialallocrange:
+    low: 0
+    high: 255
+  allocranges:
+  - low: 8
+    high: 16
+  - low: 16
+    high: 32
+  - low: 32
+    high: 64
+  - low: 64
+    high: 128
+  - low: 128
+    high: 192
+  - low: 192
+    high: 224
+  - low: 224
+    high: 240
+  - low: 240
+    high: 248
+  - low: 248
+    high: 252
+  - low: 252
+    high: 254
+  - low: 254
+    high: 255
+  usedranges:
+  - low: 0
+    high: 8
+4329327035368:
+  initialallocrange:
+    low: 1000
+    high: 1008
+  allocranges:
+  - low: 1000
+    high: 1008
+  usedranges: []
+6442450945000:
+  initialallocrange:
+    low: 1000
+    high: 1500
+  allocranges:
+  - low: 1008
+    high: 1024
+  - low: 1024
+    high: 1280
+  - low: 1280
+    high: 1408
+  - low: 1408
+    high: 1472
+  - low: 1472
+    high: 1488
+  - low: 1488
+    high: 1496
+  - low: 1496
+    high: 1500
+  usedranges:
+  - low: 1000
+    high: 1008
